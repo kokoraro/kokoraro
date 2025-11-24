@@ -48,10 +48,6 @@
       </a>
       <br>Python
     </td>
-    <td align="center" width="90">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="https://www.java.com" />
-      <br>Java
-    </td>
      <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="40" height="40" />
       <br>Webpack
