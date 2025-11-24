@@ -52,6 +52,10 @@
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="40" height="40" />
       <br>Webpack
     </td>
+    <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="40" height="40" />
+      <br>AWS
+    </td>
   </tr>
   <tr>
     <td align="center" width="90">
@@ -127,10 +131,6 @@
     <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" alt="WordPress" />
       <br>WordPress
-    </td>
-    <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="40" height="40" />
-      <br>AWS
     </td>
     <td align="center" width="90"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
